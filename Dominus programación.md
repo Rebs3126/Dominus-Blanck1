@@ -1,4 +1,4 @@
-# Dominus-Blanck1
+# Domi-Blanck1
 #include <Servo.h>
 #include <NewPing.h>
 #include <TCS3200.h>
